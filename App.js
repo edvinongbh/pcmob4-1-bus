@@ -52,16 +52,16 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   title: {
-    fontSize: 50,
+    fontSize: 40,
     marginVertical: 20,
   },
   arrivalTime: {
-    fontSize: 40,
+    fontSize: 15,
   },
   button: {
     backgroundColor: "lightblue",
     padding: 20,
     marginVertical: 20,
   },
-  buttonText: { fontSize: 20 },
+  buttonText: { fontSize: 15 },
 });
